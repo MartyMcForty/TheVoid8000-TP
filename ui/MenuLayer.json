@@ -1,0 +1,34 @@
+{
+    "children": {
+        "node": {
+            "main-menu-bg": {
+                "children": {
+                    "new": [
+                        {
+                            "type": "CCSprite",
+                            "id": "TheVoidTP-bg",
+                            "attributes": {
+                                "sprite": "Tpackui/TheVoidbg.png",
+                                "position": {
+                                    "anchor": "center",
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "scale": {
+                                    "fit": {
+                                        "relative": "screen"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "all": {
+                        "attributes": {
+                            "visible": false
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
