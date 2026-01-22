@@ -3,7 +3,7 @@
         "node": {
             "bg-texture": {
                 "attributes": {
-                    "sprite": "LoadingLayerBG.png",
+                    "sprite": "TheVoidbg.png",
                     "color": {
                         "r": 255,
                         "g": 255,
